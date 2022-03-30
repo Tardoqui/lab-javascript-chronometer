@@ -94,9 +94,7 @@ function setResetBtn() {
   
   splitsElement.innerText = '';
 
-  btnRightElement.innerText = 'SPLIT';
-  btnRightElement.classList.toggle('split')
-  btnRightElement.classList.toggle('reset')
+ 
 
 
 }
